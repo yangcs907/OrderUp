@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/LYNBtdW.png" width="400" height="250">
 
-# Group Project 3 at Georgia Tech Coding Bootcamp - 
+# Group Project 3 at Georgia Tech Coding Bootcamp -
 # Spring of 2018
 
 ## Project Source can be downloaded from https://github.com/yangcs907/group_project_3
@@ -19,13 +19,13 @@
 - Must be deployed using Heroku (with Data)
 - Must utilize at least two libraries, packages, or technologies that we haven’t discussed
 - Must allow for or involve the authentication of users in some way
-- Must have a polished frontend / UI 
+- Must have a polished frontend / UI
 - Must have folder structure that meets MVC Paradigm
 - Must meet good quality coding standards (indentation, scoping, naming)
 
 ## Application Description
 Order Up is a native application that allows for restaurants to streamline the ordering experience for their customers and staff.
-Managers can edit the menu through administrative rights. Customers/servers can swipe through menu options and add/edit food options to an order. Users can check price and item descriptions. The food items (menu assets) can be changed dynamicalls through a connected database. 
+Managers can edit the menu through administrative rights. Customers/servers can swipe through menu options and add/edit food options to an order. Users can check price and item descriptions. The food items (menu assets) can be changed dynamicalls through a connected database.
 
 ## Setup
 
@@ -53,7 +53,7 @@ yarn start
 ### Jermaine Foster
 - Wireframe
 - CSS & Styling
-- Slider Functionality
+- Logo Creation
 - Planning
 
 ### Katherine Reosenkranz
@@ -62,23 +62,24 @@ yarn start
 - JS
 - React
 - Debugging
-- Presentation 
+- Presentation
 
 ### Chris Yang
 - Backend
 - JS
 - Debugging
 - React Components
+- CSS & Styling
 
 ### Amelia Outland
 - Database
 - Asset Editing
-- Planning 
+- Planning
 
 ### Marsalis Sanders
-- Slider Functionality
 - Planning
 - CSS
+- React Components
 
 ### Thomas Gentle
 - Wireframe Assistance
@@ -115,5 +116,3 @@ yarn start
 This application meets all set requirements as dictated above. If we were to work further on this application there would be numerous things that could be done to finish the application:
 - The UI would require a dynamic styling that can easily meet the preferences for any potential restaurant
 - The addition of completed pages with differing functionality depending on the user type
-
-
