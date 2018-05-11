@@ -26,4 +26,5 @@
     "mongoose": "^5.0.15",
     "react-router": "^4.2.0"
   }
+
 }
